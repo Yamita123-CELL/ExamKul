@@ -1,0 +1,48 @@
+#heading{
+    color: darkkhaki;
+    font-size: 3rem;
+    font-family: cursive;
+    margin-left: 20rem;
+}
+#button{
+    display: flex;
+    justify-content: space-between;
+}
+#reset{
+    border-radius: 20px;
+    position: absolute;
+    right: 1rem;
+    top: 2rem;
+    height: 2rem ;
+    width: 2rem ;
+    cursor:pointer;
+}
+#span{
+    margin-left: 25rem;
+    margin-right: 1rem;
+    font-size: x-large;
+}
+input{
+    border-radius: 7px;
+}
+span{
+    color: white;
+    font-size: large;
+    /* font-family: cursive; */
+}
+#bg{
+    background-repeat: no-repeat;
+    background-size: contain;
+    overflow-y: auto;
+    width: 100%;
+}
+#outer-container{
+    border: 2px solid white ;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 13rem;
+}
+#submit{
+    margin-left: 32rem;
+}
